@@ -1,0 +1,59 @@
+.open-sans-<uniquifier> {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  body
+{
+    font-family: "Open Sans", sans-serif;
+    width: 1280;
+    background-color: #f5f4f0;
+    color: #1B1B1B
+
+}
+main {
+    height: 3054px;
+    width: 1120px;
+    margin-left: 11%;
+}
+
+footer {
+    text-align: center;
+}
+
+.orange {
+    color:#E1624F;
+    font-weight: bold;
+  
+}
+
+.des-img {
+    color: #696969;
+    display: block;
+    text-align: center;
+
+}
+
+#historia{
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+#casais{
+    color: #591B98;
+    font-weight: bold;
+}
+
+#familia{
+    color: #E5245E;
+    font-weight: bold;
+}
+
+#orcamento{
+    color: #E95E10;
+    font-weight: bold;
+
+}
